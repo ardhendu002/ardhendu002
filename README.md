@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## Know Meee !!! 
 
 - Full stack developer with a strong focus on **backend engineering**  
 - Experienced with **C, Python, Node.js, Express.js** and modern front-end ecosystems  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
+## My tech Stack
 
 | Layer | Technologies / Tools |
 |-------|-----------------------|
@@ -28,7 +28,7 @@
 
 ---
 
-## 📂 Projects & Highlights
+## My works 
 
 Some of the projects I’ve worked on:
 
